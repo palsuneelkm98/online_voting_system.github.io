@@ -23,7 +23,6 @@
             New user? <a href="./route/register.php">Register Here</a>
             </form>
     </div>
-        <?php
-            include("./route/fooder.php");
-        ?>
+  </body>
+  </html>
      
